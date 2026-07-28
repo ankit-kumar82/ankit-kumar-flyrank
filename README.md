@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This repository contains my personal portfol
 
 ## 🚀 Live Demo & Projects
 
-- **Main Portfolio**: [Ankit Kumar Portfolio](https://ankit-kumar82.github.io/portfolio/)
+- **Main Portfolio**: [Ankit Kumar Portfolio](https://ankit-kumar-flyrank-2026.netlify.app/)
 - **Repository**: [ankit-kumar-flyrank](https://github.com/ankit-kumar82/ankit-kumar-flyrank)
 
 ---
@@ -54,7 +54,7 @@ npm run dev
 ## 📬 Contact & Connect
 
 - **GitHub**: [@ankit-kumar82](https://github.com/ankit-kumar82)
-- **Portfolio**: [ankit-kumar82.github.io/portfolio](https://ankit-kumar82.github.io/portfolio/)
+- **Portfolio**: [ankit-kumar82.github.io/portfolio](https://ankit-kumar-flyrank-2026.netlify.app/)
 
 ---
 
